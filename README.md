@@ -110,11 +110,11 @@ Blue
 ---
 
 ## 📷 Results
-<br>
+<br><br>
 <img width="881" height="676" alt="New Test Point" src="https://github.com/user-attachments/assets/09840e80-335b-45a4-b20d-833f1cda8aea" />
-<br>
+<br><br>
 <img width="863" height="678" alt="Model loss and accuracy" src="https://github.com/user-attachments/assets/340b228c-c53a-46f7-8ed9-e0b9161ab1a7" />
-<br>
+<br> <br>
 
 The project visualizes:
 
