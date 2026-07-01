@@ -110,6 +110,8 @@ Blue
 ---
 
 ## 📷 Results
+<img width="881" height="676" alt="New Test Point" src="https://github.com/user-attachments/assets/09840e80-335b-45a4-b20d-833f1cda8aea" />
+
 
 The project visualizes:
 
